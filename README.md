@@ -1,6 +1,6 @@
 # UselessMachine
 
-[link text]([https://example.com/my-link](https://youtu.be/eixHQW8f0aQ) "Useless Video")
+[![Watch the useless video](/cover.jpg)]([https://youtu.be/nTQUwghvy5Q](https://youtu.be/eixHQW8f0aQ))
 
 Materials:
 Arduino Uno, moter shield, water pump, board, LCD+I2C, force sensor, speaker, LEDs
