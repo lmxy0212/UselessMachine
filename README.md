@@ -1,5 +1,7 @@
 # UselessMachine
 
+[link text]([https://example.com/my-link](https://youtu.be/eixHQW8f0aQ) "Useless Video")
+
 Materials:
 Arduino Uno, moter shield, water pump, board, LCD+I2C, force sensor, speaker, LEDs
 
